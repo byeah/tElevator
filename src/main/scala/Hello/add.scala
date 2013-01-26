@@ -17,10 +17,9 @@ object add
 	 * @return The sum of x and y
 	 */
 	def add(x:Int,y:Int)= x+y
-			
-	
+
 	/**
-	 * This is something...
+	 * !!@This is something!
 	 */
 	def main(args:Array[String])
 	{
