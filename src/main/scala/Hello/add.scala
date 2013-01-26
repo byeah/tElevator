@@ -18,6 +18,10 @@ object add
 	 */
 	def add(x:Int,y:Int)= x+y
 
+	/**
+	 * This is something
+	 */
+	
 	def main(args:Array[String])
 	{
 		println("OK")
@@ -25,5 +29,4 @@ object add
 		println("Hello World")
 	}
 	
-	def min() = 2
 }
