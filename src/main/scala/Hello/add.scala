@@ -3,11 +3,6 @@
  */
 package Hello
 
-class myClass
-{
-	def a() = 3
-}
-
 object add
 {
 	/**
@@ -19,15 +14,14 @@ object add
 	def add(x:Int,y:Int)= x+y
 
 	/**
-	 * This is something
+	 * This is the main!
 	 */
-	
 	def main(args:Array[String])
 	{
 		println("OK")
 		println(add(2,4))
 		println("Hello World")
-		println("Miao!test~~")
+		println("I am writing an new version!")
 	}
 	
 }
