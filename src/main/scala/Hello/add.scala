@@ -22,6 +22,7 @@ object add
 		println(add(2,4))
 		println("Hello World")
 		println("I am writing an new version!")
+		println("Writing Something new in Intellij")
 	}
 	
 }
