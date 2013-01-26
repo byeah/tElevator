@@ -11,6 +11,6 @@ class helloFunSuite extends FunSuite
 	{
 		assert(1+1==2)
 		assert(add.add(1, 1)==2)
+		assert(add.add(1, 2)==3)
 	}
 }
-
