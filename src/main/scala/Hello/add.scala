@@ -27,6 +27,7 @@ object add
 		println("OK")
 		println(add(2,4))
 		println("Hello World")
+		println("Miao!test~~")
 	}
 	
 }
